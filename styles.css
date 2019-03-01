@@ -1,0 +1,66 @@
+#header {
+  display: flex;
+  justify-content: center;
+  color: blue;
+}
+
+.row {
+  color: aliceblue;
+}
+
+#Pictures {
+  display: flex;
+  justify-content: space-around;
+}
+
+#crystal1 {
+  width: 10rem;
+  height: 10rem;
+}
+
+#crystal2 {
+  width: 10rem;
+  height: 10rem;
+}
+
+#crystal3 {
+  width: 10rem;
+  height: 10rem;
+}
+
+#crystal4 {
+  width: 10rem;
+  height: 10rem;
+}
+
+#RandomNumber {
+  text-align: center;
+  color: aliceblue;
+}
+
+#MyScore {
+  text-align: center;
+  color: aliceblue;
+}
+
+#wins {
+  text-align: center;
+  color: aliceblue;
+}
+
+#losses {
+  text-align: center;
+  color: aliceblue;
+}
+
+.reset {
+  text-align: center;
+  color: aliceblue;
+}
+
+body {
+  color: violet;
+  background-image: url("https://images8.alphacoders.com/971/thumb-1920-971266.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 130%;
+}
